@@ -1,7 +1,7 @@
 package bootstrap
 
 import (
-	"gorm.io/driver/sqlite"
+	"github.com/glebarez/sqlite"
 	"gorm.io/gorm"
 	"sync"
 	"vizzy/entity"
