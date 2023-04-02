@@ -1,0 +1,45 @@
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+backend/.idea/
+tmp/
+dev_file/
+__local/
+.vscode/
+
+# go.gitignore from https://github.com/github/gitignore/blob/master/Go.gitignore
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+main
+app
+
+*.db
+
+.air.toml
+
+app/
+resource/
+log/
+config.yaml
+
+frontend/dist
+frontend/node_modules
+frontend/.idea
+
+.idea
+
+resources
+
+app.log
