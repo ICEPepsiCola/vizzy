@@ -36,12 +36,10 @@
 
 ## 安装
 
-1. git clone
-
-2. cd frontend && yarn
-
-3. 安装完成后，打开终端并运行以下命令：
-
+1. windows请切换到msys分支
+2. git clone
+3. cd frontend && yarn
+4. 安装完成后，打开终端并运行以下命令：
 ```bash
 ./start.sh
 ```
