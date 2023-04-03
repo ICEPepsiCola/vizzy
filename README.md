@@ -34,6 +34,12 @@
 
 ![design.png](desgin.png)
 
+## demo
+
+下载对应的安装包
+
+https://github.com/ICEPepsiCola/vizzy/releases
+
 ## 安装
 
 1. windows请切换到msys分支
@@ -72,7 +78,7 @@
 ├── resources 前端生产包
 ├── service 接口
 ├── start.sh 开发环境构建脚本
-└── start.sh 开发环境构建脚本
+└── build.sh 生产环境构建脚本
 ```
 
 ## why go？
